@@ -1,1 +1,1 @@
-"# BasicDjangoProject" 
+# BasicDjangoProject
